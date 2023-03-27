@@ -1,4 +1,4 @@
-# LoadLanguageModel
+# Load Language Model
 Leveraging the power of large language models to extract features for daily schedules of people for electrical load forecasting.
 
 ## Contents 🔥
