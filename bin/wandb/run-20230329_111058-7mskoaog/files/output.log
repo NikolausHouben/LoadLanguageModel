@@ -1,0 +1,183 @@
+GPU available: True (cuda), used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\setup.py:176: PossibleUserWarning: GPU available but not used. Set `accelerator` and `devices` using `Trainer(accelerator='gpu', devices=1)`.
+  rank_zero_warn(
+  | Name    | Type    | Params
+------------------------------------
+0 | encoder | Encoder | 12.9 K
+1 | decoder | Decoder | 12.9 K
+------------------------------------
+25.8 K    Trainable params
+0         Non-trainable params
+25.8 K    Total params
+0.103     Total estimated model params size (MB)
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:488: PossibleUserWarning: Your `val_dataloader`'s sampler has shuffling enabled, it is strongly recommended that you turn shuffling off for val/test/predict dataloaders.
+  rank_zero_warn(
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:224: PossibleUserWarning: The dataloader, val_dataloader 0, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 8 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+cpu
+cpu
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\loggers\wandb.py:395: UserWarning: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+  rank_zero_warn(
+GPU available: True (cuda), used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\setup.py:176: PossibleUserWarning: GPU available but not used. Set `accelerator` and `devices` using `Trainer(accelerator='gpu', devices=1)`.
+  rank_zero_warn(
+  | Name    | Type    | Params
+------------------------------------
+0 | encoder | Encoder | 12.9 K
+1 | decoder | Decoder | 12.9 K
+------------------------------------
+25.8 K    Trainable params
+0         Non-trainable params
+25.8 K    Total params
+0.103     Total estimated model params size (MB)
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:488: PossibleUserWarning: Your `val_dataloader`'s sampler has shuffling enabled, it is strongly recommended that you turn shuffling off for val/test/predict dataloaders.
+  rank_zero_warn(
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:224: PossibleUserWarning: The dataloader, val_dataloader 0, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 8 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+cpu
+cpu
+GPU available: True (cuda), used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+  | Name    | Type    | Params
+------------------------------------
+0 | encoder | Encoder | 12.9 K
+1 | decoder | Decoder | 12.9 K
+------------------------------------
+25.8 K    Trainable params
+0         Non-trainable params
+25.8 K    Total params
+0.103     Total estimated model params size (MB)
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:224: PossibleUserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 8 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\call.py:48: UserWarning: Detected KeyboardInterrupt, attempting graceful shutdown...
+  rank_zero_warn("Detected KeyboardInterrupt, attempting graceful shutdown...")
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+GPU available: True (cuda), used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+  | Name    | Type    | Params
+------------------------------------
+0 | encoder | Encoder | 12.9 K
+1 | decoder | Decoder | 12.9 K
+------------------------------------
+25.8 K    Trainable params
+0         Non-trainable params
+25.8 K    Total params
+0.103     Total estimated model params size (MB)
+c:\Users\nik\miniconda3\envs\gpu2\lib\site-packages\pytorch_lightning\trainer\connectors\accelerator_connector.py:478: LightningDeprecationWarning: Setting `Trainer(gpus=1)` is deprecated in v1.7 and will be removed in v2.0. Please use `Trainer(accelerator='gpu', devices=1)` instead.
+  rank_zero_deprecation(
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+  | Name    | Type    | Params
+------------------------------------
+0 | encoder | Encoder | 12.9 K
+1 | decoder | Decoder | 12.9 K
+------------------------------------
+25.8 K    Trainable params
+0         Non-trainable params
+25.8 K    Total params

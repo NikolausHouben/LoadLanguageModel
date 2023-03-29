@@ -1,0 +1,6 @@
+2023-03-29 11:10:58,567 INFO    StreamThr :5892 [internal.py:wandb_internal():87] W&B internal server running at pid: 5892, started at: 2023-03-29 11:10:58.566372
+2023-03-29 11:10:58,569 DEBUG   HandlerThread:5892 [handler.py:handle_request():144] handle_request: status
+2023-03-29 11:10:58,582 INFO    WriterThread:5892 [datastore.py:open_for_write():85] open: .\wandb\run-20230329_111058-7mskoaog\run-7mskoaog.wandb
+2023-03-29 11:10:58,583 DEBUG   SenderThread:5892 [sender.py:send():336] send: header
+2023-03-29 11:10:58,658 DEBUG   SenderThread:5892 [sender.py:send():336] send: run
+2023-03-29 11:10:58,661 INFO    SenderThread:5892 [sender.py:_maybe_setup_resume():722] checking resume status for None/load_forecasting_lbl/7mskoaog

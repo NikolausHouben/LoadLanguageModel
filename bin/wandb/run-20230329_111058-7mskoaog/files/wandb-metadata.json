@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-03-29T18:11:01.572579",
+    "startedAt": "2023-03-29T18:10:58.551371",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/NikolausHouben/LoadLanguageModel.git",
+        "commit": "5826ae4c33c0ca098f47c8f9830c7d2af2046f03"
+    },
+    "email": "nikolaus.houben@gmail.com",
+    "root": "C:/Users/nik/Desktop/Berkeley_Projects/LoadLanguageModel",
+    "host": "SRG-Z440-T24",
+    "username": "nik",
+    "executable": "c:\\Users\\nik\\miniconda3\\envs\\gpu2\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "total": 476.33788681030273,
+        "used": 134.93846893310547
+    },
+    "gpu": "Quadro K620",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "Quadro K620",
+            "memory_total": 2147483648
+        },
+        {
+            "name": "Quadro RTX 8000",
+            "memory_total": 51539607552
+        }
+    ],
+    "memory": {
+        "total": 15.916069030761719
+    }
+}
