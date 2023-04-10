@@ -3,11 +3,14 @@
 
 [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg)](https://wandb.ai/wattcast/SFH%20Load%20Forecasting?workspace=user-nikolaushouben)
 
-# Load Language Model
+# Load Language Model 💡 –> 🔥 -> 💡
 
 
-## Main Idea 💡
+## Setup
 
+## Usage
 
+## Training
 
-## Contents 🔥
+## Inference
+
