@@ -2,3 +2,4 @@ bin/wandb
 bin/load_forecasting_lbl
 bin/lightning_logs
 data
+bin/results
